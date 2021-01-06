@@ -14,20 +14,23 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Toronto
+- name: University of Waterloo
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interests include deep learning and reinforcement leanring.
+bio: My main research interests include Information Retrieval, NLP, and Reinforcement Leanring.
 
 interests:
-- Deep Learning
-- Reinforcement Learning
-- Information Theory
+- Information Retrieval
+- Question Answering
 - Natural Language Processing
+- Reinforcement Learning
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: University of Waterloo
+    year: Present
   - course: MSc in Computer Science, Applied Computing
     institution: University of Toronto
     year: 2020
@@ -59,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "alexlimh@cs.toronto.edu"
+email: "alexlimh23@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,5 +70,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
+**Update**: I will start as a PhD student at Waterloo CS in Jan, 2021.
 
-Minghan Li is a MSc student in Computer Science Department at Universtiy of Toronto. He is interested in reinforcement learning (RL), especially task-agnostic RL and model-based RL. He also has broad interest in deeping learning, information theory and natural language processing. 
+Minghan Li is a MSc student in Computer Science Department at Universtiy of Toronto. He is interested in Natural Language Understanding, Information Retrieval, and Question Answering. He also has broad interests in Reinforcement Learning (RL), especially task-agnostic RL and model-based RL.

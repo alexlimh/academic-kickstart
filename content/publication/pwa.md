@@ -1,10 +1,10 @@
 +++
-title = "Accelerating Large Scale Knowledge Distillation via Dynamic Importance Sampling"
-date = "2018-12-03"
+title = "Latte-Mix: Measuring Sentence Semantic Similarity with Latent Categorical Mixtures"
+date = "2020-10-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["**Minghan Li**&ast;", "Tanli Zuo&ast;", "Ruicheng Li", "Martha White", "Weishi Zheng"]
+authors = ["**Minghan Li**&ast;", "He Bai&ast;", "Luchen Tan", "Kun Xiong", "Ming Li", "Jimmy Lin"]
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -17,11 +17,11 @@ authors = ["**Minghan Li**&ast;", "Tanli Zuo&ast;", "Ruicheng Li", "Martha White
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv, 2018"
-publication_short = "arXiv, 2018"
+publication = "arXiv, 2020"
+publication_short = "arXiv, 2020"
 
 # Abstract and optional shortened version.
-abstract = "*Preprint, arXiv*, 2018"
+abstract = "*Preprint, arXiv*, 2020"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -35,7 +35,7 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1812.00914.pdf"
+url_pdf = "https://arxiv.org/pdf/2010.11351.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

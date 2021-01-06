@@ -17,18 +17,27 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "RSVP.ai"
+  company = "Research Intern"
+  company_url = "https://rsvp.ai/en/#/index"
+  location = "Supervised by Luchen Tan and Professor Jimmy Lin"
+  date_start = "2020-05-01"
+  date_end = "2020-12-31"
+
 [[experience]]
   title = "University of Toronto"
   company = "Research Assistant"
   company_url = ""
   location = "Supervised by Danijar Hafner and Professor Jimmy Ba"
   date_start = "2019-12-01"
-  date_end = ""
+  date_end = "2020-12-01"
 
 [[experience]]
   title = "DeeplyCurious.AI"
   company = "Research Intern"
-  company_url = ""
+  company_url = "http://deeplycurious.ai/#/"
   location = "Natural Language and Speech Processing Group"
   date_start = "2019-02-01"
   date_end = "2019-05-15"
@@ -36,7 +45,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Microsoft Research Asia"
   company = "Research Intern"
-  company_url = ""
+  company_url = "https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"
   location = "Machine Learning Group"
   date_start = "2018-03-01"
   date_end = "2018-08-01"
