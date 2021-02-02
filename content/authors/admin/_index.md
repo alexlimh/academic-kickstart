@@ -31,9 +31,9 @@ education:
   - course: PhD in Computer Science
     institution: University of Waterloo
     year: Present
-  - course: MSc in Computer Science, Applied Computing
+  - course: MSc in Computer Science
     institution: University of Toronto
-    year: 2020
+    year: 2021
   - course: BSc in Computer Science
     institution: Sun Yat-Sen University
     year: 2019
@@ -51,7 +51,7 @@ social:
   link: https://twitter.com/alexlimh23
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=RuP501cAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/alexlimh
@@ -70,6 +70,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-**Update**: I will start as a PhD student at Waterloo CS in Jan, 2021.
-
-Minghan Li is a MSc student in Computer Science Department at Universtiy of Toronto. He is interested in Natural Language Understanding, Information Retrieval, and Question Answering. He also has broad interests in Reinforcement Learning (RL), especially task-agnostic RL and model-based RL.
+Minghan Li is a PhD student in Computer Science at Universtiy of Waterloo, supervised by Professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/index.html). Before that, he received his MSc in Computer Science from University of Toronto under the supervision of [Danijar Hafner](https://danijar.com/) and Professor [Jimmy Ba](https://jimmylba.github.io/). He completed his undergraduate study at Sun Yat-Sen University advised by Professor [Weishi Zheng](https://www.isee-ai.cn/~zhwshi/).  His research focuses on Natural Language Understanding and Information Retrieval. He is also interested in Reinforcement Learning (RL), especially task-agnostic RL and model-based RL.
