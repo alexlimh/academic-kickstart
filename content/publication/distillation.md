@@ -60,8 +60,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 # [header]
-#image = "brain.jpg"
-#caption = "My caption :smile:"
+# image = "brain.jpg"
+# caption = "My caption :smile:"
 
 +++
 <!-- In *International Conference on Multimedia Information Processing and Retrieval*, 2019.  -->

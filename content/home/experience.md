@@ -26,13 +26,13 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = "2020-12-31"
 
-[[experience]]
-  title = "University of Toronto"
-  company = "Research Assistant"
-  company_url = ""
-  location = "Supervised by Danijar Hafner and Professor Jimmy Ba"
-  date_start = "2019-12-01"
-  date_end = "2020-12-01"
+# [[experience]]
+#   title = "University of Toronto"
+#   company = "Research Assistant"
+#   company_url = ""
+#   location = "Supervised by Danijar Hafner and Professor Jimmy Ba"
+#   date_start = "2019-12-01"
+#   date_end = "2020-12-01"
 
 [[experience]]
   title = "DeeplyCurious.AI"
