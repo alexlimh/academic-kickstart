@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interests include Information Retrieval, NLP, and Reinforcement Leanring.
+bio: My main research interest is applying Bayesian learning method to NLP.
 
 interests:
 - NLP
