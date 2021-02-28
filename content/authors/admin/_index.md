@@ -21,9 +21,8 @@ organizations:
 bio: My main research interests include Information Retrieval, NLP, and Reinforcement Leanring.
 
 interests:
-- Information Retrieval
-- Question Answering
-- Natural Language Processing
+- NLP
+- Bayesian Inference
 - Reinforcement Learning
 
 education:
@@ -70,4 +69,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Minghan Li is a PhD student in Computer Science at Universtiy of Waterloo, supervised by Professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/index.html). Before that, he received his MSc in Computer Science from University of Toronto under the supervision of [Danijar Hafner](https://danijar.com/) and Professor [Jimmy Ba](https://jimmylba.github.io/). He completed his undergraduate study at Sun Yat-Sen University advised by Professor [Weishi Zheng](https://www.isee-ai.cn/~zhwshi/).  His research focuses on Natural Language Understanding and Information Retrieval. He is also interested in Reinforcement Learning (RL), especially task-agnostic RL and model-based RL.
+Minghan Li is a PhD student in Computer Science at Universtiy of Waterloo, supervised by Professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/index.html). Before that, he received his MSc in Computer Science from University of Toronto under the supervision of [Danijar Hafner](https://danijar.com/) and Professor [Jimmy Ba](https://jimmylba.github.io/). He completed his undergraduate study at Sun Yat-Sen University advised by Professor [Weishi Zheng](https://www.isee-ai.cn/~zhwshi/).  His research focuses on Natural Language Understanding and Bayesian Inference. He is also interested in Reinforcement Learning (RL), especially task-agnostic RL and model-based RL.
