@@ -18,10 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interest is applying Bayesian learning method to NLP.
+bio: My main research interest is applying Bayesian learning method to NLP/IR/QA.
 
 interests:
-- NLP
+- NLP/IR/QA
 - Bayesian Inference
 - Reinforcement Learning
 
@@ -69,4 +69,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Minghan Li is a PhD student in Computer Science at Universtiy of Waterloo, supervised by Professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/index.html). Before that, he received his MSc in Computer Science from University of Toronto under the supervision of [Danijar Hafner](https://danijar.com/) and Professor [Jimmy Ba](https://jimmylba.github.io/). He completed his undergraduate study at Sun Yat-Sen University advised by Professor [Weishi Zheng](https://www.isee-ai.cn/~zhwshi/).  His research focuses on Natural Language Understanding and Bayesian Inference. He is also interested in Reinforcement Learning (RL), especially task-agnostic RL and model-based RL.
+Minghan Li is a PhD student in Computer Science at Universtiy of Waterloo, supervised by Professor [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/index.html). Before that, he received his MSc in Computer Science from University of Toronto under the supervision of [Danijar Hafner](https://danijar.com/) and Professor [Jimmy Ba](https://jimmylba.github.io/). He completed his undergraduate study at Sun Yat-Sen University advised by Professor [Weishi Zheng](https://www.isee-ai.cn/~zhwshi/).  His research focuses on Information Retrieval and Question Answering. He is also interested in Reinforcement Learning (RL), especially task-agnostic RL and model-based RL.
