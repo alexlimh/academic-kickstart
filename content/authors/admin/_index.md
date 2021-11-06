@@ -25,18 +25,26 @@ bio: My main research interest is applying Bayesian learning method to NLP/IR/QA
 #   - course: RSVP.ai
 #     institution: Summer & Fall, 2020
 
-
 education:
   courses:
-  - course: PhD in Computer Science
-    institution: University of Waterloo
-    year: Present
-  - course: MSc in Computer Science
-    institution: University of Toronto
-    year: 2021
-  - course: BSc in Computer Science
-    institution: Sun Yat-Sen University
-    year: 2019
+  - course: RSVP.ai
+    institution: Summer & Fall, 2020
+  - course: DeeplyCurious.ai
+    institution: Spring, 2019
+  - course: Microsoft Research Asia
+    institution: Spring & Summer, 2018 
+
+# education:
+#   courses:
+#   - course: PhD in Computer Science
+#     institution: University of Waterloo
+#     year: Present
+#   - course: MSc in Computer Science
+#     institution: University of Toronto
+#     year: 2021
+#   - course: BSc in Computer Science
+#     institution: Sun Yat-Sen University
+#     year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
