@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://aclanthology.org/2021.emnlp-main.227/
+url_code: https://github.com/castorini/pyserini/blob/master/docs/experiments-dpr-compression.md
 url_dataset:
 url_poster:
 url_project:
