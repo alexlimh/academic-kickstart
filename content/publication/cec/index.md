@@ -1,25 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval"
-authors: ["Xueguang Ma&ast;", "**Minghan Li**&ast;", "Kai Sun", "Ji Xin", "Jimmy Lin"]
-date: 2021-08-28T18:46:39-04:00
+title: "Certified Error Control of Candidate Set Pruning for Two-Stage Relevance Ranking"
+authors: ["**Minghan Li**&ast;", "Xinyu Zhang&ast;", "Ji Xin", "Hongyang Zhang", "Jimmy Lin"]
+date: "2022-05-18"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-08-28T18:46:39-04:00
+publishDate: "2022-05-18"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "arXiv, 2022"
+publication_short: "arXiv, 2022"
 
-abstract: "*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)*"
+abstract: "*Preprint, arXiv*, 2022"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://aclanthology.org/2021.emnlp-main.227/
-url_code: https://github.com/castorini/pyserini/blob/master/docs/experiments-dpr-compression.md
+url_pdf: "https://arxiv.org/pdf/2205.09638.pdf"
+url_code: "https://github.com/alexlimh/CEC-Ranking"
 url_dataset:
 url_poster:
 url_project:

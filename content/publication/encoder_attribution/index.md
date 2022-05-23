@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Another Look at DPR: Reproduction of Training and Replication of Retrieval"
-authors: ["Xueguang Ma", "Kai Sun", "Ronak Pradeep", "**Minghan Li**", "Jimmy Lin"]
-date: 2021-12-08T18:42:17-04:00
+title: "An Encoder Attribution Analysis for Dense Passage Retriever in Open-Domain Question Answering"
+authors: ["**Minghan Li**", "Xueguang Ma", "Jimmy Lin"]
+date: 2022-05-14T18:42:17-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-12-08T18:42:17-04:00
+publishDate: 2022-05-08T18:42:17-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2021-12-08T18:42:17-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ECIR 2022"
-publication_short: "ECIR 2022"
+publication: "NACCL 2022"
+publication_short: "NACCL 2022"
 
-abstract: "*Proceedings of the 44th Conference on European Conference on Information Retrieval (ECIR 2022)*"
+abstract: "*Proceedings of the 2nd Workshop on Trustworthy Natural Language Processing (NAACL 2022)*"
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -37,8 +37,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://dl.acm.org/doi/abs/10.1007/978-3-030-99736-6_41
-url_code: https://github.com/castorini/pyserini/blob/master/docs/experiments-dpr.md
+url_pdf: 
+url_code: 
 url_dataset:
 url_poster:
 url_project:

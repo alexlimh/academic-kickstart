@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "EMNLP 2021"
 publication_short: "EMNLP 2021"
 
-abstract: "*Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)*"
+abstract: "*Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)*"
 
 # Summary. An optional shortened abstract.
 summary: 
