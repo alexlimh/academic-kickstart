@@ -27,6 +27,8 @@ bio: My main research interest is applying Bayesian learning method to NLP/IR/QA
 
 education:
   courses:
+  - course: Meta
+    institution: Summer, 2022
   - course: RSVP.ai
     institution: Summer & Fall, 2020
   - course: DeeplyCurious.ai

@@ -19,6 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Meta"
+  company = "Research Scientist Intern"
+  company_url = "https://rsvp.ai/en/#/index"
+  location = "Hosted by Xilun Chen"
+  date_start = "2020-06-28"
+  date_end = "2020-09-18"
+
+[[experience]]
   title = "RSVP.ai"
   company = "Research Intern"
   company_url = "https://rsvp.ai/en/#/index"
