@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "arXiv, 2022"
 publication_short: "arXiv, 2022"
 
-abstract: "*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022, upcoming)*"
+abstract: "*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 <font color=\"red\"> Oral </font>, upcoming)*"
 
 # Summary. An optional shortened abstract.
 summary: ""
