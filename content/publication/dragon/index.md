@@ -1,25 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Certified Error Control of Candidate Set Pruning for Two-Stage Relevance Ranking"
-authors: ["**Minghan Li**&ast;", "Xinyu Zhang&ast;", "Ji Xin", "Hongyang Zhang", "Jimmy Lin"]
-date: "2022-05-18"
+title: "How to Train Your DRAGON: Diverse Augmentation Towards Generalizable Dense Retrieval"
+authors: ["Sheng-Chieh Lin", "Akari Asai", "**Minghan Li**", "Barlas Oguz", "Jimmy Lin", "Yashar Mehdad", "Wen-tau Yih", "Xilun Chen"]
+date: "2023-02-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-05-18"
+publishDate: "2023-02-15"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "EMNLP, 2022"
-publication_short: "EMNLP, 2022"
+publication: "arXiv, 2023"
+publication_short: "arXiv, 2023"
 
-abstract: "*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 <font color=\"red\"> Oral </font>)*"
+abstract: "*Preprint, arXiv, 2023*"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://aclanthology.org/2022.emnlp-main.23/"
-url_code: "https://github.com/alexlimh/CEC-Ranking"
+url_pdf: "https://arxiv.org/abs/2302.07452"
+url_code: "https://github.com/facebookresearch/dpr-scale"
 url_dataset:
 url_poster:
 url_project:

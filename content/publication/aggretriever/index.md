@@ -1,25 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Certified Error Control of Candidate Set Pruning for Two-Stage Relevance Ranking"
-authors: ["**Minghan Li**&ast;", "Xinyu Zhang&ast;", "Ji Xin", "Hongyang Zhang", "Jimmy Lin"]
-date: "2022-05-18"
+title: "Aggretriever: A Simple Approach to Aggregate Textual Representation for Robust Dense Passage Retrieval"
+authors: ["Sheng-Chieh Lin", "**Minghan Li**", "Jimmy Lin"]
+date: "2023-02-08"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-05-18"
+publishDate: "2023-02-08"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "EMNLP, 2022"
-publication_short: "EMNLP, 2022"
+publication: "TACL, 2023"
+publication_short: "TACL, 2023"
 
-abstract: "*Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022 <font color=\"red\"> Oral </font>)*"
+abstract: "*TACL, 2023*"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://aclanthology.org/2022.emnlp-main.23/"
-url_code: "https://github.com/alexlimh/CEC-Ranking"
+url_pdf: "https://arxiv.org/abs/2208.00511"
+url_code: "https://github.com/castorini/dhr"
 url_dataset:
 url_poster:
 url_project:
